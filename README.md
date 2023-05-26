@@ -6,7 +6,6 @@ Financial, Economic &amp; Sustainability Comparison of ICE-PHEV-Electric Vehicle
 <img width="1090" alt="Screenshot 2023-05-25 at 7 47 56 PM" src="https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle/assets/56044346/0ecf35c8-7e27-4cee-be1b-2c448f73caaa">
 
 <img width="769" alt="Screenshot 2023-05-25 at 7 48 11 PM" src="https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle/assets/56044346/0cb83448-be66-4f1b-a00b-ec2336d172f2">
-
 <img width="748" alt="Screenshot 2023-05-25 at 7 48 24 PM" src="https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle/assets/56044346/e7f1ee36-ca9c-4769-9470-1a00f3b3e93d">
 
 <img width="769" alt="Screenshot 2023-05-25 at 7 48 37 PM" src="https://github.com/viradhikaa/Financial-Analysis-Electric-Vehicle/assets/56044346/ddef6232-12f9-4d7f-9250-22187c523924">
